@@ -1,6 +1,8 @@
 # vite-react-demo
 
-Vite React project.
+[![build](https://github.com/remarkablemark/vite-react-demo/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablemark/vite-react-demo/actions/workflows/build.yml)
+
+Vite React project. See demo [site](https://remarkabl.org/vite-react-demo/).
 
 ## Install
 
